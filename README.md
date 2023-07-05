@@ -5,7 +5,7 @@
 Bonjour à tous,  
 Project Euler est un site internet qui propose plus de 500 problèmes mathématiques. Le but étant de les résoudre à l'aide de programmes
 informatiques ! Le forum d'échange n'est accesible qu'après avoir résolu le problème.
-Ci-dessous le récapitulatif des projets euler que j'ai résolu.
+Ci-dessous le récapitulatif des projets euler que j'ai résolu en Python 3.
 Bonne lecture !
 
 [Lien vers le site web PROJECT EULER ici](https://projecteuler.net/) 
