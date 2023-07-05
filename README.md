@@ -8,7 +8,7 @@ informatiques ! Le forum d'échange n'est accesible qu'après avoir résolu le p
 Ci-dessous le récapitulatif des projets euler que j'ai résolu.
 Bonne lecture !
 
-[Lien vers le site web PROJECT EULER ici](https://projecteuler.net/) |
+[Lien vers le site web PROJECT EULER ici](https://projecteuler.net/) 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
   
